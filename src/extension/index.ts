@@ -65,7 +65,7 @@ export function activate(context: vscode.ExtensionContext): void {
 
             const agent = new Agent(
                 modelRegistry.languageModel(
-                    "vscode-lm:copilot:claude-3.5-sonnet"
+                    "vscode-lm:copilot:claude-3.7-sonnet"
                 ),
                 cwd,
                 undefined,
