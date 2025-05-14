@@ -1,3 +1,8 @@
+> [!IMPORTANT]  
+> This proof-of-concept has been shelved for the time being.
+> I'm currently using [Augment Code](https://www.augmentcode.com/) and am exceptionally happy with it.
+> It's basically what I wanted Recline to become once it was fully done. I just might pick this project back up at a later time, but for now it's on hold.
+
 # Recline
 The AI assistant that seamlessly integrates with VSCode to autonomously create, edit, and run terminal commands; redefining how you code.
 
